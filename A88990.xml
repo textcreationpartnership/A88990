@@ -1,0 +1,1127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema mortuale, or, An elegy upon death, the law of nature and tribute of mortals. / By R.M. No poet, nor the son of a poet.</title>
+            <author>Mayhew, R. (Richard)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88990</idno>
+            <idno type="STC">Wing M1441</idno>
+            <idno type="STC">ESTC R180487</idno>
+            <idno type="EEBO-CITATION">43077536</idno>
+            <idno type="OCLC">ocm 43077536</idno>
+            <idno type="VID">151603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151603)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2267:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Poema mortuale, or, An elegy upon death, the law of nature and tribute of mortals. / By R.M. No poet, nor the son of a poet.</title>
+                  <author>Mayhew, R. (Richard)</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Anno praedicto, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151603:1"/>
+            <p>
+               <hi>POEMA MORTUALE:</hi> OR, AN ELEGY UPON DEATH, THE LAW of NATURE, AND TRIBUTE of MORTALS.</p>
+            <p>By <hi>R. M.</hi> No <hi>Poet,</hi> nor the <hi>Son</hi> of a <hi>Poet.</hi>
+            </p>
+            <q>
+               <l>Duſt <hi>(Bodies)</hi> are, and unto Duſt <hi>return:</hi>
+               </l>
+               <l>
+                  <hi>Souls,</hi> locked are not in a ſable <hi>URN.</hi>
+               </l>
+            </q>
+            <q>
+               <l>
+                  <hi>In</hi> Chriſto <hi>vixi; morior; vivamque perennè:</hi>
+               </l>
+               <l>
+                  <hi>Gratia,</hi> Chriſte, <hi>mihi; Gloria,</hi> Chriſte, <hi>Tibi.</hi>
+               </l>
+            </q>
+            <p>Anno Praedicto 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <div type="poem">
+               <pb facs="tcp:151603:2"/>
+               <pb facs="tcp:151603:2"/>
+               <head>I. The <hi>Prologue.</hi>
+               </head>
+               <head type="sub">The <hi>Vale</hi> of the <hi>Author,</hi> to the <hi>Reader.</hi>
+               </head>
+               <lg>
+                  <l>AS with <hi>Hortenſius,</hi> 'tis not with <hi>Me;</hi>
+                  </l>
+                  <l>
+                     <hi>Unapt</hi> to <hi>write,</hi> but <hi>apt</hi> to <hi>ſpeak</hi> was <hi>He:</hi>
+                  </l>
+                  <l>Nor do I with <hi>ALBERICUS</hi> compare,</l>
+                  <l>
+                     <hi>Unapt</hi> to <hi>ſpeak,</hi> but <hi>apt</hi> to <hi>write</hi> his <hi>ſhare:</hi>
+                  </l>
+                  <l>For <hi>words,</hi> or <hi>works,</hi> their <hi>Genius</hi> rarely lay,</l>
+                  <l>But (haltingly) do I go (either) <hi>way.</hi>
+                  </l>
+                  <l>
+                     <hi>Death,</hi> ſubject is; a <hi>Cup</hi> full to the <hi>Brim;</hi>
+                  </l>
+                  <l>An <hi>Ocean,</hi> where <hi>Elephants</hi> may <hi>ſwim.</hi>
+                  </l>
+                  <l>In <hi>POETRY</hi> I'm <hi>learning</hi> but to <hi>ſpell;</hi>
+                  </l>
+                  <l>Are <hi>Deeps</hi> exhauſted with a <hi>Muſcle-ſhell?</hi>
+                  </l>
+                  <l>One was a <hi>Mute,</hi> wiſe <hi>Cato</hi> being there;</l>
+                  <l>Give fancy <hi>Vent, Du-Bartas</hi> was not here.</l>
+                  <l>This <hi>Poem</hi> (now) takes air, our mortal <hi>Fate,</hi>
+                  </l>
+                  <l>As to <hi>CONDOLE,</hi> ſo to <hi>Congratulate.</hi>
+                  </l>
+                  <l>Doſt <hi>live</hi> to <hi>dye?</hi> this <hi>ſhews</hi> a (doleful) <hi>ſtate:</hi>
+                  </l>
+                  <l>Doſt <hi>dye</hi> to <hi>live?</hi> this (Dolour) <hi>antiquate.</hi>
+                  </l>
+                  <l>Is <hi>Truth</hi> the <hi>White?</hi> let that <hi>Man</hi> never <hi>ſpeed,</hi>
+                  </l>
+                  <l>Who (from the <hi>Iſſue</hi>) cenſures of the <hi>Deed.</hi>
+                  </l>
+                  <l>
+                     <hi>Man</hi> may <hi>attempt</hi> all <hi>Men</hi> to <hi>pleaſe</hi> as <hi>ſoon,</hi>
+                  </l>
+                  <l>As <hi>He</hi> that made a <hi>Veſtment</hi> for the <hi>Moon,</hi>
+                  </l>
+                  <l>To <hi>ſuit</hi> (each) <hi>interchange:</hi> ah (jugling) <hi>Ape!</hi>
+                  </l>
+                  <l>
+                     <hi>Dayes</hi> (ſcarcely) two <hi>She</hi> keepeth in a <hi>Shape.</hi>
+                  </l>
+                  <l>
+                     <hi>Proſe</hi> (<hi>Poems</hi> too) meet with a (critick) <hi>wound;</hi>
+                  </l>
+                  <l>Some (Faults will <hi>find</hi>) beſides <hi>Faults</hi> to be <hi>found:</hi>
+                  </l>
+                  <l>Wing <hi>Momus</hi> (then) this <hi>Book</hi> is not for <hi>Thee;</hi>
+                  </l>
+                  <l>And <hi>Zoilus</hi> take they <hi>Flight</hi> as <hi>far</hi> as <hi>He.</hi>
+                  </l>
+                  <l>Art <hi>Notional?</hi> 'twas no Prophetick <hi>Bram,</hi>
+                  </l>
+                  <l>Art <hi>Critical?</hi> 'tis no Poetick <hi>Strain;</hi>
+                  </l>
+                  <l>But art <hi>Celeſtial?</hi> (here lies the <hi>STRESS</hi>)</l>
+                  <l>Moſt (lovely) <hi>Truth</hi> ſhews in her (native) <hi>Dreſs.</hi>
+                  </l>
+                  <l>Now, <hi>Reader,</hi> take; taſte; eat; but (alſo) <hi>wiſh;</hi>
+                  </l>
+                  <l>'Tis (Lordly) <hi>Fare,</hi> though in an (earthen) <hi>Diſh.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:3"/>
+               <head>II. The <hi>Deſcription.</hi>
+               </head>
+               <lg>
+                  <l>PAle <hi>Death</hi> the <hi>Subject</hi> is; but what is <hi>Death?</hi>
+                  </l>
+                  <l>From (lifened) <hi>dust,</hi> but a (departed) <hi>Breath.</hi>
+                  </l>
+                  <l>But is not <hi>Death</hi> (ſo worthy <hi>Meditation</hi>)</l>
+                  <l>An <hi>Eſſence?</hi> No, nor <hi>Subſtance,</hi> but <hi>Privation.</hi>
+                  </l>
+                  <l>There <hi>Beings</hi> are, but <hi>Death</hi> no <hi>Being</hi> have;</l>
+                  <l>No <hi>Creature</hi> 'tis; for <hi>Creatures</hi> 'tis a <hi>Grave.</hi>
+                  </l>
+                  <l>Death's but a <hi>Fall,</hi> which (by a Fall) <hi>invaded</hi>
+                  </l>
+                  <l>This <hi>Microcoſm;</hi> whereby he was <hi>degraded.</hi>
+                  </l>
+                  <l>Some <hi>Perſons</hi> are for <hi>Debts</hi> in <hi>PRISON</hi> laid;</l>
+                  <l>This <hi>Debt</hi> pays <hi>Man,</hi> though <hi>Man</hi> be left <hi>unpaid.</hi>
+                  </l>
+                  <l>
+                     <hi>Man,</hi> mortal is; this <hi>Microcoſmus</hi> muſt</l>
+                  <l>Strike <hi>Sail</hi> to <hi>Death,</hi> and <hi>graved</hi> be in <hi>dust.</hi>
+                  </l>
+                  <l>
+                     <hi>Life</hi>'s but a breathing <hi>Death;</hi> a <hi>Tale</hi> that's told;</l>
+                  <l>He doth but <hi>live,</hi> that <hi>liveth</hi> to be <hi>old.</hi>
+                  </l>
+                  <l>A <hi>Vapor</hi> is man's <hi>Life;</hi> a <hi>Taper</hi> burning;</l>
+                  <l>'Tis like the <hi>wind</hi> that <hi>paſſeth</hi> not <hi>returning.</hi>
+                  </l>
+                  <l>Ah! what is <hi>Life?</hi> a <hi>Flood;</hi> and <hi>Ebb;</hi> and <hi>Man,</hi>
+                  </l>
+                  <l>Sails (then) into a (timeleſs) <hi>OCEAN.</hi>
+                  </l>
+                  <l>Ah puzling <hi>Theme!</hi> was <hi>Auſtin</hi> at a <hi>loſs</hi>
+                  </l>
+                  <l>What <hi>Life</hi> to call? let not my <hi>Gold</hi> be <hi>Droſs.</hi>
+                  </l>
+                  <l>Mans <hi>Noſtril</hi> is a <hi>paſſage</hi> for his <hi>Breath;</hi>
+                  </l>
+                  <l>'Tis then a (dying) <hi>Life,</hi> or (living) <hi>Death.</hi>
+                  </l>
+                  <l>
+                     <hi>Life</hi>'s but a (dying) <hi>Death;</hi> our <hi>Bodies</hi> are</l>
+                  <l>But (living) <hi>Graves;</hi> the <hi>longest</hi> Liver <hi>ſhare</hi>
+                  </l>
+                  <l>But in a <hi>ſpan</hi> of <hi>days;</hi> Death (homeward) <hi>ſends;</hi>
+                  </l>
+                  <l>A <hi>CIRCLE</hi> 'tis, beginning where it <hi>ends.</hi>
+                  </l>
+                  <l>Ah daring <hi>Death!</hi> the <hi>Tribute</hi> due to <hi>Nature;</hi>
+                  </l>
+                  <l>The <hi>Law</hi> of <hi>Mortals,</hi> not reflecting <hi>Stature;</hi>
+                  </l>
+                  <l>And of the <hi>Univerſe</hi> the <hi>Empereſs;</hi>
+                  </l>
+                  <l>That viſit <hi>Mortals</hi> in a various <hi>dreſs.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:3"/>
+               <head>III. The <hi>Aſſertion.</hi>
+               </head>
+               <lg>
+                  <l>THE <hi>Hebrew</hi> Proverb travels very far,</l>
+                  <l>In <hi>Golgotha</hi> Skulls of all <hi>Sizes</hi> are.</l>
+                  <l>
+                     <hi>Death</hi>'s not a (bie) but (beaten) <hi>path</hi> for <hi>All;</hi>
+                  </l>
+                  <l>Here <hi>Croeſus, Codrus,</hi> ſtumble may, and <hi>fall.</hi>
+                  </l>
+                  <l>One <hi>ſhoots</hi> the <hi>Gulf,</hi> yet <hi>grounds</hi> upon a <hi>Shelf;</hi>
+                  </l>
+                  <l>A <hi>Manuſcript</hi> deceiveth <hi>DEATH</hi> it <hi>ſelf.</hi>
+                  </l>
+                  <l>No <hi>diſtance</hi> doth this <hi>Law</hi> of Nature know,</l>
+                  <l>But <hi>Mortals reap</hi> according as they <hi>ſow.</hi>
+                  </l>
+                  <l>
+                     <hi>Death</hi> (to the <hi>Grave</hi>) is <hi>path</hi> for (any) <hi>Foot;</hi>
+                  </l>
+                  <l>This (common) <hi>Gulf,</hi> the <hi>mean</hi> and <hi>mighty</hi> ſhoot.</l>
+                  <l>They <hi>bleſſed</hi> are much more (let this take <hi>Air</hi>)</l>
+                  <l>In <hi>Peter</hi>'s <hi>Chain,</hi> than <hi>He</hi> in <hi>Peter</hi>'s <hi>Chair:</hi>
+                  </l>
+                  <l>Ah <hi>Miſcreant</hi> to <hi>refuge</hi> in a <hi>Lye!</hi>
+                  </l>
+                  <l>Ah <hi>Monſter-Man!</hi> I <hi>ſee</hi> (as I paſs by)</l>
+                  <l>Thy <hi>Triple-Crown</hi> begins to ſtand <hi>awry;</hi>
+                  </l>
+                  <l>Down <hi>(Dagon-like)</hi> let this fall from on <hi>high;</hi>
+                  </l>
+                  <l>Break <hi>Crown, Head, Neck,</hi> this is the (common) <hi>Cry;</hi>
+                  </l>
+                  <l>Thus <hi>wiſhed</hi> 'tis, that thou may'ſt (ever) <hi>dye.</hi>
+                  </l>
+                  <l>
+                     <hi>Popes</hi> (dyed) have, without a (doleful) <hi>Song,</hi>
+                  </l>
+                  <l>Unleſs it were becauſe they (lived) <hi>long.</hi>
+                  </l>
+                  <l>Where's <hi>Adam? Abram? Iſa'c? Jacob?</hi> Where?</l>
+                  <l>
+                     <hi>Inventi non ſunt;</hi> they <hi>SEPULCRED</hi> were.</l>
+                  <l>What <hi>Proto-Adam?</hi> Yea, <hi>He</hi> was a <hi>Man;</hi>
+                  </l>
+                  <l>
+                     <hi>Red-earth</hi> I <hi>find,</hi> when that his <hi>name</hi> I <hi>ſcan.</hi>
+                  </l>
+                  <l>This <hi>Proto-Man</hi> finds <hi>Death</hi> on <hi>Nature</hi> enter;</l>
+                  <l>Thus <hi>earth</hi> to earth <hi>returns,</hi> as to its <hi>Center.</hi>
+                  </l>
+                  <l>What <hi>Abraham?</hi> 'tis <hi>ſtrange;</hi> 'tis <hi>true,</hi> he <hi>dies,</hi>
+                  </l>
+                  <l>And in the <hi>CAVE</hi> of <hi>Mackpelah</hi> he <hi>lies.</hi>
+                  </l>
+                  <l>What <hi>Iſa'c</hi> too, a <hi>TYPE</hi> ſo <hi>eminent?</hi>
+                  </l>
+                  <l>
+                     <hi>Types, Shadows</hi> are; Death <hi>pitched</hi> hath his <hi>Tent</hi>
+                  </l>
+                  <l>With <hi>Abraham:</hi> Ah when his <hi>Days</hi> were <hi>ſpent!</hi>
+                  </l>
+                  <l>
+                     <hi>He</hi> (like a <hi>Son</hi>) unto his <hi>FATHER</hi> went.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:4"/>
+               <head>The <hi>Aſſertion.</hi>
+               </head>
+               <lg>
+                  <l>WHat <hi>Jacob</hi> too? <hi>Eſau</hi> ſupplanted <hi>He;</hi>
+                  </l>
+                  <l>One named <hi>right,</hi> for <hi>Name</hi> and <hi>Act</hi> agree:</l>
+                  <l>Ah but <hi>Supplanters</hi> may <hi>ſupylanted</hi> be!</l>
+                  <l>
+                     <hi>Him</hi> daring) Death <hi>tranſplanted</hi> have I <hi>ſee.</hi>
+                  </l>
+                  <l>
+                     <hi>Mortality</hi> (whatever Men <hi>ſuggeſt</hi>)</l>
+                  <l>
+                     <hi>Antiquity</hi> hath for her (native) <hi>Creſt:</hi>
+                  </l>
+                  <l>Did not Death <hi>reign</hi> from <hi>ADAM</hi> unto <hi>MOSES?</hi>
+                  </l>
+                  <l>Wher's <hi>Matthew? Mark? Paul? Peter? James?</hi> and <hi>Joſes?</hi>
+                  </l>
+                  <l>Our <hi>Fathers</hi> where are <hi>They?</hi> the greateſt <hi>Sage</hi>
+                  </l>
+                  <l>Is <hi>ſlily</hi> paſſing; <hi>going</hi> off the <hi>STAGE.</hi>
+                  </l>
+                  <l>Well <hi>ſtiled</hi> (then) is <hi>Death,</hi> moſt aged <hi>King,</hi>
+                  </l>
+                  <l>Who led the <hi>Van,</hi> and up the <hi>Rear</hi> does <hi>bring.</hi>
+                  </l>
+                  <l>Ah read Death's <hi>Motto</hi> in a <hi>Ladies</hi> Line!</l>
+                  <l>My <hi>lot</hi>'s to <hi>Day;</hi> to <hi>morrow</hi> may be thine:</l>
+                  <l>And <hi>wonder</hi> not at that true <hi>Celled-ſenſe,</hi>
+                  </l>
+                  <l>Amongſt theſe <hi>Skulls</hi> I <hi>find</hi> no difference.</l>
+                  <l>But where's <hi>Methuſelah</hi> of all moſt <hi>gray?</hi>
+                  </l>
+                  <l>
+                     <hi>Scan</hi> but his <hi>name,</hi> the <hi>word</hi> the <hi>man</hi> bewray:</l>
+                  <l>
+                     <hi>Years</hi> lived <hi>he</hi> Nine hundred ſixty nine,</l>
+                  <l>But <hi>dyed</hi> then; no <hi>longer</hi> was his <hi>Line.</hi>
+                  </l>
+                  <l>Though many (now) on <hi>Beds</hi> of <hi>IVORY</hi>
+                  </l>
+                  <l>Do <hi>ſtretch</hi> themſelves; yet theſe muſt alſo <hi>lie</hi>
+                  </l>
+                  <l>In <hi>Beds</hi> of <hi>Earth;</hi> this <hi>Tribute</hi> pay they <hi>muſt,</hi>
+                  </l>
+                  <l>And for their <hi>Heads</hi> a <hi>Pillow</hi> have of <hi>Duſt.</hi>
+                  </l>
+                  <l>The great <hi>Mogul</hi> erects his <hi>Neſt</hi> on <hi>high;</hi>
+                  </l>
+                  <l>But <hi>liveth</hi> he, that ſhall not (alſo) <hi>dye?</hi>
+                  </l>
+                  <l>All <hi>dyed</hi> have, that <hi>lived</hi> have; or have</l>
+                  <l>
+                     <hi>Tranſlated</hi> been, and ſo <hi>deceiv'd</hi> the <hi>Grave:</hi>
+                  </l>
+                  <l>Thus <hi>dye</hi> ſhall <hi>All</hi> that <hi>live,</hi> or <hi>changed</hi> be;</l>
+                  <l>From <hi>ADAM</hi> all <hi>derive</hi> their <hi>Pedigree.</hi>
+                  </l>
+                  <l>Now, <hi>Reaſons</hi> take (from <hi>one</hi> ſo <hi>low</hi> in <hi>Stature</hi>)</l>
+                  <l>Why <hi>Death</hi> ſhould be a <hi>Tribute</hi> due to <hi>Nature.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:4"/>
+               <head>IV. The <hi>Reaſons.</hi>
+               </head>
+               <div type="part">
+                  <head>1. The <hi>Decree</hi> of <hi>God.</hi>
+                  </head>
+                  <lg>
+                     <l>DEath, <hi>ſeizeth</hi> All, for this is God's <hi>Decree;</hi>
+                     </l>
+                     <l>She <hi>ſeizeth,</hi> but will not <hi>ſurrender</hi> Thee.</l>
+                     <l>
+                        <hi>Death</hi> (Heavens <hi>Statute</hi> is) in <hi>Scripture-ſenſe,</hi>
+                     </l>
+                     <l>Each mans <hi>line</hi> meets in this <hi>Circumference.</hi>
+                     </l>
+                     <l>
+                        <hi>Earth, Heaven, Hell,</hi> their <hi>Laws</hi> are <hi>different,</hi>
+                     </l>
+                     <l>(If <hi>writing</hi> thus be not <hi>impertinent:</hi>)</l>
+                     <l>
+                        <hi>Earths</hi> Law <hi>municipal,</hi> is (once) to <hi>dye;</hi>
+                     </l>
+                     <l>But <hi>Heavens</hi> is to live <hi>eternally:</hi>
+                     </l>
+                     <l>
+                        <hi>Hell</hi> (alſo) hath a <hi>LAW,</hi> to <hi>dye</hi> for <hi>ever;</hi>
+                     </l>
+                     <l>Take <hi>proſpect</hi> (here) of three; <hi>Once; alway; never.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>2. The <hi>Matter</hi> of the <hi>Body.</hi>
+                  </head>
+                  <lg>
+                     <l>ADd (nextly) now the <hi>Matter</hi> of the <hi>Man;</hi>
+                     </l>
+                     <l>This <hi>Fabrick</hi> (then) <hi>Eternize</hi> if ye <hi>can.</hi>
+                     </l>
+                     <l>Ah <hi>mortal</hi> Man! made up of <hi>Elements;</hi>
+                     </l>
+                     <l>
+                        <hi>Earth, Air, Fire, Water,</hi> are <hi>Ingredients:</hi>
+                     </l>
+                     <l>For <hi>Man</hi> to <hi>dye,</hi> to me appeareth <hi>juſt,</hi>
+                     </l>
+                     <l>Who (at the firſt) was <hi>reared</hi> out of <hi>duſt.</hi>
+                     </l>
+                     <l>The <hi>Breath</hi> of <hi>God,</hi> the <hi>Soul</hi> I find to be;</l>
+                     <l>The <hi>Work</hi> of <hi>God,</hi> the <hi>Body</hi> ſeems to <hi>me.</hi>
+                     </l>
+                     <l>The <hi>Building</hi>'s <hi>Clay,</hi> the <hi>Baſis</hi> (alſo) <hi>Duſt;</hi>
+                     </l>
+                     <l>The <hi>Creature</hi> to the <hi>Center</hi> (dying) muſt.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>3. The <hi>Merit</hi> of <hi>Sin.</hi>
+                  </head>
+                  <lg>
+                     <l>ALl <hi>ſinned</hi> have, and therefore <hi>All</hi> muſt <hi>dye;</hi>
+                     </l>
+                     <l>This muſt be <hi>true,</hi> or <hi>Truth</hi> muſt be a <hi>Lye.</hi>
+                     </l>
+                     <l>The <hi>Soul</hi> dyes not, 'tis an (immortal) <hi>Spirit:</hi>
+                     </l>
+                     <l>The <hi>Body</hi> dyes, 'tis <hi>Sins</hi> (undoubted) <hi>Merit.</hi>
+                     </l>
+                     <l>Sins <hi>venial,</hi> and <hi>mortal, Papiſts</hi> make;</l>
+                     <l>But this <hi>diſtinction</hi> is a groſs miſtake.</l>
+                     <l>As <hi>Adam</hi>'s bounds were ſet, and <hi>Soul</hi> endued;</l>
+                     <l>So <hi>breaking</hi> theſe, a (double) <hi>Death</hi> enſued.</l>
+                     <l>'Tis <hi>better</hi> thus (infernal) <hi>Sophiſtry</hi>
+                     </l>
+                     <l>To naus'ate, than a (double) <hi>Death</hi> to <hi>dye.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:5"/>
+               <head>V. The <hi>Uſes.</hi>
+               </head>
+               <lg>
+                  <l>THree <hi>Uſes</hi> (now) of daring <hi>Death</hi> be <hi>making;</hi>
+                  </l>
+                  <l>High <hi>Prudence</hi> 'tis right <hi>Meaſures</hi> to be <hi>taking.</hi>
+                  </l>
+               </lg>
+               <div type="part">
+                  <head>I. Of <hi>Trial.</hi>
+                  </head>
+                  <lg>
+                     <l>TRy, <hi>mortal</hi> Man; come to the <hi>Test,</hi> and try;</l>
+                     <l>Stage <hi>Perſons;</hi> alſo <hi>Things;</hi> yet Man muſt <hi>dye.</hi>
+                     </l>
+                     <l>Can any <hi>PERSON?</hi> Or, can any <hi>THING</hi>
+                     </l>
+                     <l>(That Perſons <hi>deck</hi>) match <hi>Death?</hi> this (timely) bring.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <head>1. Of <hi>Beauty.</hi>
+                  </head>
+                  <lg>
+                     <l>CAN <hi>Beauty</hi> (that's a <hi>Snare</hi>) from Death's <hi>Arrest</hi>
+                     </l>
+                     <l>Bail <hi>MORTALS?</hi> No; as <hi>Ages</hi> do <hi>attest.</hi>
+                     </l>
+                     <l>Can <hi>Beauty</hi> (ſo <hi>admired</hi> by the <hi>Tall?</hi>)</l>
+                     <l>No, mortal <hi>Man,</hi> for Nature caught a <hi>Fall,</hi>
+                     </l>
+                     <l>When <hi>ſhe</hi> was <hi>young</hi> (as did a petty <hi>Prince</hi>)</l>
+                     <l>Which cauſed hath her <hi>halting</hi> ever <hi>ſince.</hi>
+                     </l>
+                     <l>She's <hi>courted; painted; ſpotted;</hi> yet I <hi>ſee,</hi>
+                     </l>
+                     <l>'Tis (native) <hi>Beauty</hi> without <hi>ſpots</hi> to <hi>be.</hi>
+                     </l>
+                     <l>Some <hi>try</hi> to <hi>mend,</hi> but while they <hi>mend,</hi> they <hi>marr;</hi>
+                     </l>
+                     <l>For <hi>Beauty-ſpeets,</hi> the <hi>SPOTS</hi> of <hi>Beauty</hi> are.</l>
+                     <l>Fade <hi>Beauty</hi> will like <hi>Flowers</hi> of the <hi>Field;</hi>
+                     </l>
+                     <l>Not <hi>ſhot-free</hi> girded with an <hi>Ajax</hi>'s Shield.</l>
+                     <l>She <hi>fades; faints; falls;</hi> and (<hi>running</hi> of her <hi>Race</hi>)</l>
+                     <l>Hath for her <hi>Scutch'on</hi> but a (wrinkled) <hi>Face.</hi>
+                     </l>
+                     <l>Where's <hi>Sarah</hi> that the <hi>Court</hi> of <hi>Pharaoh</hi> charm?</l>
+                     <l>This (daring) <hi>Death,</hi> this <hi>Beauty</hi> doth <hi>alar'm.</hi>
+                     </l>
+                     <l>Where's <hi>Abſalom,</hi> the <hi>Beauty</hi> of his <hi>Age?</hi>
+                     </l>
+                     <l>He <hi>acts</hi> his <hi>part,</hi> and <hi>goeth</hi> off the <hi>Stage.</hi>
+                     </l>
+                     <l>From <hi>Head</hi> to <hi>Foot,</hi> no <hi>Blemiſh</hi> could be <hi>found;</hi>
+                     </l>
+                     <l>But Beauty <hi>dyes;</hi> Death <hi>marching</hi> is her <hi>Round.</hi>
+                     </l>
+                     <l>This <hi>Tribute</hi> due to <hi>Nature</hi> payed <hi>He;</hi>
+                     </l>
+                     <l>The <hi>Halter</hi> was his <hi>Hair</hi> upon a <hi>Tree.</hi>
+                     </l>
+                     <l>Here <hi>(Iſr'el's Mirror)</hi> had his mortal <hi>Stroak;</hi>
+                     </l>
+                     <l>Will others (now) call this the Royal <hi>Oak?</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:5"/>
+               <head>II. Of <hi>Men,</hi> and <hi>Means.</hi>
+               </head>
+               <lg>
+                  <l>CAn <hi>Men,</hi> or <hi>Means?</hi> each <hi>Creature</hi> in its <hi>Station,</hi>
+                  </l>
+                  <l>From Natures <hi>inſtinct</hi> plot its <hi>Conſervation.</hi>
+                  </l>
+                  <l>What <hi>Drug</hi> by <hi>Galen</hi> could <hi>preſeribed</hi> be?</l>
+                  <l>Or could <hi>Hippocrates</hi> by <hi>DOSES</hi> free</l>
+                  <l>His Pat'ents? No; they <hi>differ</hi> as to <hi>Staure,</hi>
+                  </l>
+                  <l>Yet payment make of <hi>Tribute</hi> due to <hi>Nature.</hi>
+                  </l>
+                  <l>For Spirits <hi>Chymiſts</hi> are; <hi>Phlebotomy</hi>
+                  </l>
+                  <l>A <hi>Monſter</hi> ſeems in that <hi>extracting eye:</hi>
+                  </l>
+                  <l>They <hi>breathe</hi> no <hi>Veins;</hi> rare <hi>Spirits</hi> they <hi>apply;</hi>
+                  </l>
+                  <l>But <hi>ſalved</hi> is not <hi>DEATH</hi> by Chymiſtry.</l>
+                  <l>Two wayes there are <hi>Diſeaſes</hi> for to <hi>cure;</hi>
+                  </l>
+                  <l>But neither can face-paling <hi>Death</hi> allure:</l>
+                  <l>Is <hi>Sympathy</hi> the <hi>way?</hi> the <hi>Arrow</hi>'s wide,</l>
+                  <l>For <hi>Digby</hi> that admired <hi>Artist</hi> dy'd.</l>
+                  <l>Or is <hi>ANTIP ATHY?</hi> ah but <hi>undarted.</hi>
+                  </l>
+                  <l>Is ſtill the <hi>White!</hi> beloved <hi>Luke</hi>'s departed.</l>
+                  <l>Speak <hi>Borgius</hi> (that I may hear the <hi>ſound</hi>)</l>
+                  <l>Who <hi>Remedies</hi> for all <hi>Diſeaſes</hi> found,</l>
+                  <l>But <hi>Death;</hi> He <hi>dyes,</hi> and <hi>dying</hi> did <hi>aſſure</hi>
+                  </l>
+                  <l>No <hi>Drug,</hi> or <hi>Doſe,</hi> of Death could make a <hi>Cure.</hi>
+                  </l>
+                  <l>Let <hi>Nature</hi> (now) moſt <hi>fortifie</hi> that <hi>can,</hi>
+                  </l>
+                  <l>
+                     <hi>Health</hi>'s higheſt <hi>ſphere</hi> a <hi>Criſis</hi> proves to <hi>Man.</hi>
+                  </l>
+                  <l>One way to <hi>come</hi> (into) the <hi>World</hi> had <hi>all;</hi>
+                  </l>
+                  <l>But to <hi>go</hi> (out) a <hi>thouſand;</hi> and to <hi>fall;</hi>
+                  </l>
+                  <l>A <hi>Nail</hi> kills <hi>Siſera;</hi> but, by a <hi>Stone</hi>
+                  </l>
+                  <l>
+                     <hi>Goliah</hi> falls; for he would ſtand <hi>alone:</hi>
+                  </l>
+                  <l>This <hi>Giant</hi> (now) <hi>meets</hi> with a mortal <hi>Blow;</hi>
+                  </l>
+                  <l>
+                     <hi>Right</hi> goes an <hi>Arrow</hi> out of Heavens <hi>Bow:</hi>
+                  </l>
+                  <l>
+                     <hi>One</hi> wound <hi>Goliah</hi> kills, but <hi>twenty three</hi>
+                  </l>
+                  <l>Great <hi>Caeſar</hi> had, and then <hi>departed</hi> he.</l>
+                  <l>Strong <hi>Samſon</hi> enters now, of whom 'tis <hi>ſaid,</hi>
+                  </l>
+                  <l>
+                     <hi>He</hi> Rubbiſh <hi>made,</hi> and under Rubbiſh <hi>laid.</hi>
+                  </l>
+                  <l>Thus <hi>Men,</hi> and <hi>Means,</hi> diſputing <hi>Con</hi> and <hi>Pro,</hi>
+                  </l>
+                  <l>Do <hi>act</hi> their <hi>Parts,</hi> and off the <hi>Stage</hi> do <hi>go.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:6"/>
+               <head>III. Of <hi>Honour</hi> and <hi>Policy.</hi>
+               </head>
+               <lg>
+                  <l>CAN <hi>Honour?</hi> No, the talleſt <hi>Pines</hi> are <hi>ſhaken</hi>
+                  </l>
+                  <l>By ſmalleſt <hi>winds;</hi> and may not this <hi>awaken?</hi>
+                  </l>
+                  <l>Sure <hi>footing</hi> (Soul) hath not <hi>Magnificence;</hi>
+                  </l>
+                  <l>This may be in the Preterperfect <hi>Tenſe:</hi>
+                  </l>
+                  <l>This (Bucket-like) now up, now down, is <hi>She;</hi>
+                  </l>
+                  <l>But (down) the <hi>mot'on</hi> ſwifteſt ſeem to <hi>me.</hi>
+                  </l>
+                  <l>Could I <hi>prefer,</hi> ſuch have <hi>Preferment</hi> ſhould,</l>
+                  <l>Not that <hi>would</hi> Places, but that <hi>Places</hi> would.</l>
+                  <l>All worldly <hi>Grandeur</hi> in the <hi>Duſt</hi> is <hi>laid;</hi>
+                  </l>
+                  <l>As <hi>Caeſar took,</hi> ſo <hi>Caeſar</hi> Tribute <hi>paid.</hi>
+                  </l>
+                  <l>Thus ROMAN <hi>Honour</hi> paſſeth as a <hi>Blaſt,</hi>
+                  </l>
+                  <l>Though <hi>Pompey</hi> ſlew, <hi>ſlain Pompey</hi> was at <hi>laſt.</hi>
+                  </l>
+                  <l>High <hi>Haman</hi> ſtaged is (making uproar;)</l>
+                  <l>Next to the <hi>King</hi> does now this <hi>Abject</hi> ſoar:</l>
+                  <l>As to <hi>Deſign,</hi> in <hi>fewiſh blood</hi> he <hi>wallows;</hi>
+                  </l>
+                  <l>As to <hi>Deſert,</hi> aſcendeth <hi>He</hi> the <hi>Gallows.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>CAN <hi>Policy?</hi> No; <hi>MAZIRINI</hi> may</l>
+                  <l>Strike <hi>Sail</hi> to <hi>Death,</hi> and go this (common) <hi>way.</hi>
+                  </l>
+                  <l>Ah where's <hi>Pythagoras,</hi> with prudent <hi>Cato?</hi>
+                  </l>
+                  <l>Where's <hi>Seneca,</hi> with <hi>Socrates</hi> and <hi>Plato?</hi>
+                  </l>
+                  <l>Where's <hi>Cicero,</hi> with <hi>Athen</hi>'s <hi>Legiſlators?</hi>
+                  </l>
+                  <l>And where's <hi>Apollo,</hi> with the <hi>Commentators?</hi>
+                  </l>
+                  <l>But where is that (admired) <hi>Ariſtotle?</hi>
+                  </l>
+                  <l>(Yet <hi>Euripus</hi> would not into his <hi>Bottle:</hi>)</l>
+                  <l>So (ofte) <hi>ebb,</hi> and <hi>flow</hi> this <hi>Deep,</hi> that <hi>He</hi>
+                  </l>
+                  <l>
+                     <hi>(Unſatisfied.)</hi> would the <hi>Bottom</hi> ſee.</l>
+                  <l>But where's <hi>Achitophel?</hi> accurſed may</l>
+                  <l>Such <hi>Policy</hi> be to the (latter) <hi>Day:</hi>
+                  </l>
+                  <l>An <hi>ORACLE</hi> was <hi>He</hi> within his <hi>Age;</hi>
+                  </l>
+                  <l>But <hi>hangs</hi> himſelf, and <hi>falleth</hi> off the <hi>Stage.</hi>
+                  </l>
+                  <l>Where's <hi>Solomon,</hi> more <hi>wiſe</hi> than any <hi>other?</hi>
+                  </l>
+                  <l>That could <hi>defect</hi> the <hi>true</hi> from <hi>feigned</hi> Mother:</l>
+                  <l>Ah (turbid.) <hi>Death! He</hi> was a (mortal) <hi>Sage;</hi>
+                  </l>
+                  <l>And being mortal <hi>goeth</hi> off the <hi>STAGE.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:6"/>
+               <head>IV. Of <hi>Wealth.</hi>
+               </head>
+               <lg>
+                  <l>CAN <hi>Riches?</hi> No; or <hi>Truth</hi> is made a <hi>Lye;</hi>
+                  </l>
+                  <l>But <hi>Wealth</hi>'s a gilded, lying <hi>VANITY.</hi>
+                  </l>
+                  <l>The <hi>World</hi> (ſaith One) to <hi>Man</hi> is God's <hi>Epiſtle;</hi>
+                  </l>
+                  <l>But (often) <hi>prove</hi> to <hi>Man</hi> a vexing <hi>Thiſtle.</hi>
+                  </l>
+                  <l>The <hi>World</hi>'s a <hi>Labyrinth;</hi> my Soul <hi>beware;</hi>
+                  </l>
+                  <l>And (<hi>Michal</hi>-like) is <hi>given</hi> as a <hi>Snare.</hi>
+                  </l>
+                  <l>Ah <hi>bitter-ſweet,</hi> and that but for an <hi>hour!</hi>
+                  </l>
+                  <l>
+                     <hi>Sweet</hi> is the <hi>Promiſe,</hi> but the <hi>Payment</hi> ſowre.</l>
+                  <l>The <hi>World</hi>'s a <hi>Cheat;</hi> the things thereof <hi>decay;</hi>
+                  </l>
+                  <l>And <hi>(Laban-like)</hi> for <hi>Rachel Leah</hi> pay.</l>
+                  <l>A <hi>Syrens</hi> Song, and unto Whoredom <hi>pander,</hi>
+                  </l>
+                  <l>Which cauſeth many <hi>(Dinah-like)</hi> to <hi>wander.</hi>
+                  </l>
+                  <l>Ah <hi>England</hi> mourn, and grow into a <hi>Paſſion!</hi>
+                  </l>
+                  <l>The <hi>Spaniſh</hi> Mode, is now an <hi>Engliſh</hi> Faſhion.</l>
+                  <l>Moſt vainly <hi>Mortals</hi> worldly things <hi>aſpire;</hi>
+                  </l>
+                  <l>Theſe are not <hi>Food,</hi> but <hi>Fewel</hi> to <hi>Deſire.</hi>
+                  </l>
+                  <l>Shall <hi>Hearts</hi> be <hi>ſet</hi> on that, where (onely) <hi>Feet</hi>
+                  </l>
+                  <l>Should <hi>ſtanding</hi> be? hence <hi>bearing</hi> but a <hi>Sheet!</hi>
+                  </l>
+                  <l>
+                     <hi>Job</hi> ſtaged is, and not for <hi>Wealth</hi> the <hi>leaſt,</hi>
+                  </l>
+                  <l>But <hi>greater</hi> than the <hi>greateſt</hi> of the <hi>Eaſt;</hi>
+                  </l>
+                  <l>His <hi>Subſtance</hi> winged is (the <hi>Blow</hi> was <hi>ſuch;</hi>)</l>
+                  <l>But <hi>Jah Jehovah</hi> gives him <hi>twice</hi> as <hi>much.</hi>
+                  </l>
+                  <l>No <hi>Object</hi> for the <hi>Eye</hi> is <hi>Wealth,</hi> and can</l>
+                  <l>This <hi>Object</hi> be unto the <hi>Heart</hi> of <hi>Man?</hi>
+                  </l>
+                  <l>But <hi>worldly</hi> Men make for <hi>themſelves</hi> a <hi>Rod,</hi>
+                  </l>
+                  <l>
+                     <hi>Below</hi> a <hi>Soul,</hi> is <hi>all</hi> below a <hi>GOD.</hi>
+                  </l>
+                  <l>Where's <hi>Craſſus? Croeſus? Crates? Ariſtippus?</hi>
+                  </l>
+                  <l>Or <hi>Cyrus? Xerzes? Dives</hi> and <hi>Philippus?</hi>
+                  </l>
+                  <l>
+                     <hi>Left</hi> by the <hi>World</hi> are <hi>they,</hi> where <hi>(living)</hi> find them;</l>
+                  <l>And <hi>(dying)</hi> they do <hi>leave</hi> the <hi>World</hi> behind them.</l>
+                  <l>Where's <hi>He</hi> that had ſo vaſt a <hi>Territory?</hi>
+                  </l>
+                  <l>Who <hi>Ruler</hi> was (according to the <hi>Story</hi>)</l>
+                  <l>Of <hi>Provinces</hi> an Hundred twenty ſeven;</l>
+                  <l>The <hi>Man</hi> is <hi>dead,</hi> and gone to <hi>Hell,</hi> or <hi>Heaven.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:7"/>
+               <head>V. Of <hi>Fortitude.</hi>
+               </head>
+               <lg>
+                  <l>CAn <hi>Fortitude?</hi> This <hi>Mortals</hi> rarely <hi>deck;</hi>
+                  </l>
+                  <l>A (rare) but (rich) <hi>Gem</hi> 'tis about the <hi>neck</hi>
+                  </l>
+                  <l>Of <hi>Potentates;</hi> refute it if ye <hi>can,</hi>
+                  </l>
+                  <l>
+                     <hi>Son</hi> unto <hi>Caeſar Valor</hi> makes a <hi>Man.</hi>
+                  </l>
+                  <l>Great <hi>Alexander</hi> would <hi>immortal</hi> be</l>
+                  <l>Unwounded; wounded <hi>mortal</hi> proved <hi>he.</hi>
+                  </l>
+                  <l>Where's (little) <hi>David?</hi> yet hath (little) <hi>Fear;</hi>
+                  </l>
+                  <l>who <hi>killed</hi> both the <hi>Lyon</hi> and the <hi>Bear:</hi>
+                  </l>
+                  <l>
+                     <hi>Philiſtine-foreskins</hi> hanged up may be,</l>
+                  <l>As (ſignal) <hi>Trophies</hi> for a <hi>Saul</hi> to <hi>ſee:</hi>
+                  </l>
+                  <l>Yea, <hi>Gath-Goliah,</hi> dreadful in his <hi>motion,</hi>
+                  </l>
+                  <l>Had (native) <hi>Blood</hi> preſcribed for a <hi>Potion?</hi>
+                  </l>
+                  <l>Ah but he <hi>dyes</hi> (as <hi>Scripture</hi> hath <hi>averred!</hi>)</l>
+                  <l>And in the (Royal) <hi>City</hi> was <hi>interred.</hi>
+                  </l>
+                  <l>Stout <hi>Hannibal (Rome's Terror)</hi> where is <hi>He?</hi>
+                  </l>
+                  <l>Or thoſe ſtout <hi>Scipio's,</hi> that would not <hi>flee?</hi>
+                  </l>
+                  <l>Where's <hi>Saladine,</hi> that (Oriental) <hi>Victor?</hi>
+                  </l>
+                  <l>Or where ſhould I <hi>dig</hi> for (puiſſant) <hi>Hector?</hi>
+                  </l>
+                  <l>
+                     <hi>Huniades</hi> doth next <hi>aſcend</hi> the <hi>STAGE,</hi>
+                  </l>
+                  <l>Who (all his Race) did <hi>war</hi> with <hi>Turciſts</hi> wage;</l>
+                  <l>In <hi>Battels</hi> many (ſtoutly) he <hi>engage,</hi>
+                  </l>
+                  <l>And (thorough Valor) <hi>Turky</hi> did <hi>enrage:</hi>
+                  </l>
+                  <l>To this (vaſt) <hi>Empire</hi> dreadful was his <hi>name,</hi>
+                  </l>
+                  <l>Their (crying) <hi>Babes</hi> were <hi>ſtilled</hi> with the <hi>ſame;</hi>
+                  </l>
+                  <l>
+                     <hi>Jobs</hi> (iron) <hi>Pen</hi> take to <hi>engrave</hi> his <hi>Fame,</hi>
+                  </l>
+                  <l>(My <hi>Narrative</hi> defective is, and <hi>lame;</hi>)</l>
+                  <l>That to <hi>Poſterity</hi> tranſmitted may</l>
+                  <l>His <hi>Valor</hi> and his <hi>Conquest</hi> be I ſay.</l>
+                  <l>Where's <hi>Scanderbeg?</hi> who was ſo <hi>valorous;</hi>
+                  </l>
+                  <l>And with his <hi>Valor</hi> ſo <hi>victorious:</hi>
+                  </l>
+                  <l>In more than twenty <hi>Battels</hi> he <hi>engage</hi>
+                  </l>
+                  <l>Proud <hi>Saracens;</hi> whoſe right <hi>Arm</hi> did <hi>preſage</hi>
+                  </l>
+                  <l>His <hi>Valor</hi> and his <hi>Conquest</hi> in his <hi>Age:</hi>
+                  </l>
+                  <l>This (matchleſs) <hi>Valor</hi> goeth off the <hi>Stage.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:7"/>
+               <head>VI. Of <hi>Learning.</hi>
+               </head>
+               <lg>
+                  <l>CAn <hi>Learning?</hi> This to <hi>Tully</hi> doth <hi>allye;</hi>
+                  </l>
+                  <l>
+                     <hi>Knots-Gordian</hi> this (thorough Art) <hi>untye;</hi>
+                  </l>
+                  <l>Which one no <hi>way</hi> but (by his Sword) <hi>eſpie:</hi>
+                  </l>
+                  <l>But did not <hi>Tully,</hi> and his <hi>Nephew</hi> dye?</l>
+                  <l>Keep <hi>Learning</hi> in her (native) <hi>Orb,</hi> and thus</l>
+                  <l>Shall due <hi>Reſpect</hi> be for <hi>Philologus.</hi>
+                  </l>
+                  <l>Wher's <hi>Homer? Horace? Zeno</hi> and <hi>Prochorus?</hi>
+                  </l>
+                  <l>Or <hi>Xenophon? Tertullus? Theodorus?</hi>
+                  </l>
+                  <l>Wher's <hi>Plato? Plautus? Plutarch? Theophraſtus?</hi>
+                  </l>
+                  <l>Or <hi>Memucan? Alvarez</hi> and <hi>Eraſtus?</hi>
+                  </l>
+                  <l>Wher's <hi>Auſtin</hi> with his <hi>Tract</hi> of <hi>Recantation?</hi>
+                  </l>
+                  <l>Or <hi>Ambroſe,</hi> modeſt in his <hi>Meditation?</hi>
+                  </l>
+                  <l>Though <hi>Ignorance</hi> to <hi>Learning</hi> giveth <hi>check,</hi>
+                  </l>
+                  <l>Yet (ſurely) this the <hi>Sons</hi> of <hi>Adam deck.</hi>
+                  </l>
+                  <l>Thus <hi>Learning</hi> in a <hi>Lord</hi> (as was of <hi>old</hi>)</l>
+                  <l>
+                     <hi>Aſſimilates</hi> a <hi>DIAMOND</hi> in <hi>Gold.</hi>
+                  </l>
+                  <l>Wher's <hi>Origen</hi> ſo full of <hi>Allegories?</hi>
+                  </l>
+                  <l>Or <hi>Moderators</hi> in the <hi>Conſiſtories?</hi>
+                  </l>
+                  <l>Wher's <hi>Jewel,</hi> who the <hi>Truth</hi> defended <hi>well?</hi>
+                  </l>
+                  <l>Or <hi>Bolton,</hi> on <hi>Death, Judgment, Heaven, Hell?</hi>
+                  </l>
+                  <l>Wher's <hi>Chryſippus?</hi> his <hi>Study</hi> might have bled him,</l>
+                  <l>(For ought I ſee) had not <hi>Meliſſa</hi> fed him.</l>
+                  <l>Wher's <hi>Hilary</hi> for <hi>Stile</hi> ſo greatly <hi>eyed?</hi>
+                  </l>
+                  <l>Or <hi>Gregory,</hi> that was ſo <hi>mortified?</hi>
+                  </l>
+                  <l>Wher's <hi>Baſil? Beda</hi> too? ſo <hi>preaching</hi> then</l>
+                  <l>(If one ſpeaks <hi>Truth</hi>) the <hi>ſtones</hi> did cry <hi>Amen.</hi>
+                  </l>
+                  <l>Where are thoſe <hi>prying Ones</hi> of <hi>Iſſachar?</hi>
+                  </l>
+                  <l>And wher's <hi>Eraſmus</hi> learnings morning <hi>Star?</hi>
+                  </l>
+                  <l>Wher's <hi>CYPRIAN</hi> ſo worthy <hi>Martyrdom?</hi>
+                  </l>
+                  <l>With very many more? but here's no <hi>room.</hi>
+                  </l>
+                  <l>Wher's <hi>Moſes,</hi> mighty, both in <hi>Words</hi> and <hi>Deeds?</hi>
+                  </l>
+                  <l>
+                     <hi>Death</hi> (unto <hi>Death</hi>) the <hi>man</hi> in <hi>Moab</hi> bleeds.</l>
+                  <l>Wher's <hi>Cranmer? Ridley? Lambert?</hi> and the <hi>rest?</hi>
+                  </l>
+                  <l>Ah <hi>dead</hi> are <hi>theſe,</hi> and <hi>dying</hi> are the <hi>best!</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:8"/>
+               <head>II. Of <hi>Terror.</hi>
+               </head>
+               <lg>
+                  <l>ART out of <hi>Christ?</hi> On <hi>Ebal</hi> ſtand I mul</l>
+                  <l>And <hi>Lectures</hi> (now) not (onely) <hi>read</hi> of <hi>Duſ.</hi>
+                  </l>
+                  <l>But (alſo) <hi>Wrath,</hi> that's <hi>blown</hi> into a <hi>flame:</hi>
+                  </l>
+                  <l>Almighty <hi>Breath</hi> is <hi>kindler</hi> of the <hi>ſame.</hi>
+                  </l>
+                  <l>To <hi>Souls</hi> in <hi>Christ,</hi> Death is moſt <hi>amiable;</hi>
+                  </l>
+                  <l>Moſt <hi>terrible</hi> of all things <hi>formidable</hi>
+                  </l>
+                  <l>
+                     <hi>To Chriſtleſs Ones;</hi> yea (this) appears to <hi>me</hi>
+                  </l>
+                  <l>Of <hi>HELL</hi> the very <hi>Suburbs</hi> for to be.</l>
+                  <l>Ah mortal <hi>Man!</hi> If I may ſpeak my <hi>Senſe,</hi>
+                  </l>
+                  <l>Infernal <hi>Dregs</hi> are in the (future) <hi>Tenſe.</hi>
+                  </l>
+                  <l>'Tis pity that an <hi>ENOSH</hi> is <hi>deterred</hi>
+                  </l>
+                  <l>From (dying) <hi>Thoughts,</hi> for <hi>Bildad</hi> hath <hi>averred</hi>
+                  </l>
+                  <l>That <hi>Death</hi> the King of <hi>Terrors</hi> is to <hi>thee,</hi>
+                  </l>
+                  <l>If <hi>Chriſtleſs</hi> dying; and thus unto <hi>me.</hi>
+                  </l>
+                  <l>Lend but an <hi>Ear</hi> to what the <hi>Romiſts</hi> ſay,</l>
+                  <l>
+                     <hi>Rome</hi> (unto <hi>Heaven</hi>) is the (onely) <hi>way:</hi>
+                  </l>
+                  <l>Ah but (my Soul) go not ſo far <hi>about!</hi>
+                  </l>
+                  <l>A <hi>Papal-Toe</hi> may (ſometimes) have the <hi>Gout:</hi>
+                  </l>
+                  <l>
+                     <hi>Rome</hi>'s <hi>Monſter</hi> goeth <hi>wrong,</hi> and will not <hi>ſuffer</hi>
+                  </l>
+                  <l>A going <hi>right;</hi> this <hi>Candle</hi> wants a <hi>Snuffer;</hi>
+                  </l>
+                  <l>Yea, an <hi>Extinguiſher,</hi> that <hi>lighted</hi> may</l>
+                  <l>A <hi>better</hi> be, and <hi>light</hi> a (better) <hi>way.</hi>
+                  </l>
+                  <l>Ah needs muſt <hi>Hell</hi> a diſmal Dung'on be!</l>
+                  <l>Where Heavens <hi>Sun</hi> ſhall never <hi>ſhine</hi> to <hi>thee.</hi>
+                  </l>
+                  <l>
+                     <hi>Sin,</hi> hath no <hi>Mean,</hi> but not at all to be;</l>
+                  <l>
+                     <hi>Sin,</hi> is the <hi>Means</hi> for to endanger <hi>thee.</hi>
+                  </l>
+                  <l>
+                     <hi>Prepare</hi> for <hi>Death;</hi> let this <hi>appear</hi> to <hi>thee</hi>
+                  </l>
+                  <l>
+                     <hi>Certain; uncertain</hi> is the <hi>Time</hi> to <hi>me.</hi>
+                  </l>
+                  <l>
+                     <hi>Death</hi> (if no <hi>Children</hi>) did a <hi>Rachel</hi> cry;</l>
+                  <l>Ah <hi>crying</hi> be a <hi>Christ,</hi> or elſe I <hi>dye!</hi>
+                  </l>
+                  <l>Doth <hi>Death</hi> arreſt, and find thee without <hi>Grace?</hi>
+                  </l>
+                  <l>With <hi>Judas</hi> (then) go to thy proper <hi>place.</hi>
+                  </l>
+                  <l>If (true <hi>Grace</hi> here) ſhall not <hi>implanted</hi> be,</l>
+                  <l>Then <hi>Woe, Woe, Woe</hi> (hereafter) unto <hi>thee.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:8"/>
+               <head>III. Of <hi>Triumph.</hi>
+               </head>
+               <lg>
+                  <l>A <hi>Scend</hi> (my <hi>Soul</hi>) on Mount <hi>Gerizim</hi> ſtand;</l>
+                  <l>A taking <hi>Proſpect</hi> is the Holy <hi>LAND.</hi>
+                  </l>
+                  <l>Be <hi>joyous</hi> Saint, no <hi>Corroſive</hi> to <hi>thee,</hi>
+                  </l>
+                  <l>Of (ſtingleſs) <hi>Death</hi> can a <hi>Memento</hi> be.</l>
+                  <l>Not <hi>fuller</hi> is of <hi>light</hi> the <hi>Worlds</hi> bright <hi>eye;</hi>
+                  </l>
+                  <l>Nor yet the <hi>Sea</hi> with <hi>water</hi> (never <hi>dry</hi>)</l>
+                  <l>Then that mans <hi>Heart</hi> with <hi>joy</hi> who (truly) ſee</l>
+                  <l>The <hi>Death</hi> of <hi>Christ,</hi> the <hi>Death</hi> of <hi>Death</hi> to be.</l>
+                  <l>Had <hi>Heaven</hi> Sin (thus <hi>Anſelm</hi> ſpeaks about it)</l>
+                  <l>Much rather would <hi>He</hi> be in <hi>Hell</hi> without it.</l>
+                  <l>A <hi>drop</hi> of <hi>Sin,</hi> doth unto <hi>Mortals</hi> bring</l>
+                  <l>More <hi>evil</hi> than a <hi>Sea</hi> of <hi>Suffering.</hi>
+                  </l>
+                  <l>There may be <hi>Sorrow</hi> without <hi>Sin,</hi> but <hi>can</hi>
+                  </l>
+                  <l>
+                     <hi>Sin</hi> (without <hi>Sorrow</hi>) be unto the <hi>man?</hi>
+                  </l>
+                  <l>
+                     <hi>Death</hi>'s an <hi>Eclipſe;</hi> to <hi>man</hi> this <hi>happen</hi> may</l>
+                  <l>As in a (clear) ſo on a (cloudy) <hi>day.</hi>
+                  </l>
+                  <l>None (until <hi>Deatth</hi>) were bleſt in <hi>Solon</hi>'s eye;</l>
+                  <l>They <hi>bleſſed</hi> are, that in a <hi>JESUS dye.</hi>
+                  </l>
+                  <l>Ah (moment) <hi>Man!</hi> be <hi>winged</hi> like a <hi>Dove;</hi>
+                  </l>
+                  <l>And <hi>reſtleſs</hi> too, till <hi>Arked</hi> with thy <hi>Love:</hi>
+                  </l>
+                  <l>
+                     <hi>Solace</hi> thy ſelf with <hi>Loves;</hi> If <hi>Christ</hi> be <hi>thine,</hi>
+                  </l>
+                  <l>
+                     <hi>GALL</hi> into <hi>Honey, WATER</hi> into <hi>Wine,</hi>
+                  </l>
+                  <l>
+                     <hi>Converted</hi> are: Now <hi>Marah</hi> taſteth <hi>ſweet;</hi>
+                  </l>
+                  <l>And (lovely) will <hi>appear</hi> a (winding) <hi>ſheet.</hi>
+                  </l>
+                  <l>Make <hi>Death</hi> familiar; this <hi>welcome</hi> thus;</l>
+                  <l>Come <hi>Life,</hi> come <hi>Death,</hi> with good <hi>Ignatius.</hi>
+                  </l>
+                  <l>The <hi>preſence</hi> of all <hi>Good,</hi> is <hi>Heaven;</hi> and</l>
+                  <l>The <hi>abſence</hi> of all <hi>Evil:</hi> Here's a <hi>Land!</hi>
+                  </l>
+                  <l>Oh then (my Soul) <hi>ſuck</hi> ſweetly here, and <hi>crave</hi> it!</l>
+                  <l>An <hi>Heaven</hi> 'tis to <hi>hope</hi> it; what to <hi>have</hi> it?</l>
+                  <l>Thus, Time's a <hi>Space,</hi> lent from <hi>Eternity;</hi>
+                  </l>
+                  <l>A <hi>Globe,</hi> that <hi>rells</hi> with (flie) <hi>Celerity:</hi>
+                  </l>
+                  <l>As it is true, <hi>Aloba</hi> it is that <hi>lends</hi> it;</l>
+                  <l>It is as true, <hi>Omega</hi> 'tis that <hi>ends</hi> it.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:151603:9"/>
+               <head>VI. The <hi>Epilogue.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>FAith</hi> (thorough <hi>Grace</hi>) make (now) of Sacred <hi>Truth:</hi>
+                  </l>
+                  <l>Muſt <hi>NESTOR</hi> dye? ſo may the <hi>Shumem-Youth.</hi>
+                  </l>
+                  <l>'Tis true, <hi>Life</hi> is the <hi>Triumph</hi> of each <hi>Stature;</hi>
+                  </l>
+                  <l>'Tis true, <hi>Death</hi> is the <hi>Tribute</hi> due to <hi>Nature.</hi>
+                  </l>
+                  <l>All <hi>Ages; Statures; Sexes; Siſes</hi> muſt,</l>
+                  <l>This <hi>payment</hi> make, and <hi>bedded</hi> be in <hi>dust.</hi>
+                  </l>
+                  <l>
+                     <hi>And he dyed,</hi> this <hi>Epitaph</hi> muſt have</l>
+                  <l>Each <hi>individual,</hi> upon his <hi>Grave.</hi>
+                  </l>
+                  <l>
+                     <hi>Death</hi> (ingreſs) had by <hi>Sin;</hi> this (ſadly) <hi>woundeth;</hi>
+                  </l>
+                  <l>
+                     <hi>Sin</hi> (egreſs) hath by <hi>Death;</hi> this (gladly) <hi>ſoundeth.</hi>
+                  </l>
+                  <l>
+                     <hi>Reader;</hi> the <hi>(Bodies-death)</hi> doth <hi>perfectly</hi>
+                  </l>
+                  <l>From <hi>(Deaths-body)</hi> the Saint <hi>indempnifie.</hi>
+                  </l>
+                  <l>
+                     <hi>Death,</hi> a <hi>Dilemma</hi> is; <hi>non-plust</hi> are <hi>All,</hi>
+                  </l>
+                  <l>Who enter <hi>Liſts,</hi> and ſo <hi>Reſign</hi> the <hi>Wall.</hi>
+                  </l>
+                  <l>The <hi>Fear</hi> of <hi>Death,</hi> the <hi>Soul</hi> with <hi>Terror</hi> fill;</l>
+                  <l>
+                     <hi>Death</hi> killeth (once) but <hi>Fear</hi> doth (often) <hi>kill.</hi>
+                  </l>
+                  <l>A <hi>Creature</hi> (with the <hi>Ephemera</hi>) may</l>
+                  <l>Be (as to <hi>Life</hi>) a <hi>Creature</hi> of a <hi>Day.</hi>
+                  </l>
+                  <l>
+                     <hi>Years</hi> unto <hi>One</hi> the <hi>God</hi> of <hi>Nature</hi> gives;</l>
+                  <l>
+                     <hi>Another</hi> not a <hi>Day</hi> in <hi>Nature</hi> lives:</l>
+                  <l>View <hi>Nature</hi> (now) and in this (Glaſs) <hi>deſcry;</hi>
+                  </l>
+                  <l>Art a <hi>Day</hi> old? then <hi>old</hi> enough to <hi>dye.</hi>
+                  </l>
+                  <l>The <hi>best</hi> of <hi>Men,</hi> they are but <hi>Men</hi> at <hi>best;</hi>
+                  </l>
+                  <l>The <hi>worst</hi> of <hi>Men,</hi> dye <hi>ſooner</hi> than the <hi>rest.</hi>
+                  </l>
+                  <l>In <hi>hearing, hear;</hi> in <hi>ſaying</hi> (alſo) <hi>ſay:</hi>
+                  </l>
+                  <l>In <hi>trying, try;</hi> in <hi>praying</hi> (alſo) <hi>pray:</hi>
+                  </l>
+                  <l>In <hi>doing, do;</hi> in <hi>giving</hi> (alſo) <hi>give:</hi>
+                  </l>
+                  <l>In <hi>living, dye;</hi> in <hi>dying</hi> (alſo) <hi>live.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Are grace-ful <hi>Veins</hi> found <hi>running</hi> thorough <hi>Thee?</hi>
+                  </l>
+                  <l>All <hi>Glory</hi> (then) be <hi>given</hi> unto <hi>THREE.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:151603:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
